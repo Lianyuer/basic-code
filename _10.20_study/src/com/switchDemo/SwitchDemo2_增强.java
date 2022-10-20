@@ -2,7 +2,7 @@ package com.switchDemo;
 
 import java.util.Scanner;
 
-public class SwitchDemo2 {
+public class SwitchDemo2_增强 {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         System.out.println("请输入今天星期几：");
