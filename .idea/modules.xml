@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/_10.15_study/_10.15_study.iml" filepath="$PROJECT_DIR$/_10.15_study/_10.15_study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_10.16_study/_10.16_study.iml" filepath="$PROJECT_DIR$/_10.16_study/_10.16_study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_10.20_study/_10.20_study.iml" filepath="$PROJECT_DIR$/_10.20_study/_10.20_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10.21_study/_10.21_study.iml" filepath="$PROJECT_DIR$/_10.21_study/_10.21_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-code.iml" filepath="$PROJECT_DIR$/basic-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/循环和判断/循环和判断.iml" filepath="$PROJECT_DIR$/循环和判断/循环和判断.iml" />
+      <module fileurl="file://$PROJECT_DIR$/算术运算/算术运算.iml" filepath="$PROJECT_DIR$/算术运算/算术运算.iml" />
+      <module fileurl="file://$PROJECT_DIR$/逻辑运算/逻辑运算.iml" filepath="$PROJECT_DIR$/逻辑运算/逻辑运算.iml" />
     </modules>
   </component>
 </project>
