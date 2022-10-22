@@ -2,6 +2,7 @@ package com;
 
 public class skip7Test {
     public static void main(String[] args) {
+        // 缝七过
         // 1 2 3 4 5 6 过 8 9 10 11 12 13 过 15 16 过...
         // 69 过 过 过 ... 80
         //个位7  十位7  7倍数
